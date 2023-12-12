@@ -1,0 +1,1 @@
+Script to extract the switch time of the transmon frequency using the pi-scope data of a flux pulse. For reference, check Figure 9.2 of Matthew David Reed Phd Thesis "Entanglement and Quantum Error Correction with Superconducting Qubits" (2013)
